@@ -13,6 +13,16 @@ a:hover{
 	}
 .max{
 	width: 750px;
+	border-top: 1px;
+	border-color: rgb(85, 85, 85);
+	border-left: 1px;
+	border-bottom: 1px;
+	border-right: 1px;
+	}
+.max2
+	{
+	width: 750px;
+	font-weight: normal;
 	}
 .top{
 	background: url('../images/main/top.gif') no-repeat left;
@@ -84,6 +94,17 @@ a:hover{
 	border-left: solid #CCC 1px;
 	border-bottom: solid #CCC 1px;
 	}
+.demoright
+	{
+		float:right;
+		padding: 10px;
+	}
+.demoleft
+	{
+		float:left;
+		padding: 10px;
+	}
+
 
 /* Christmas Card Page Style */
 .cardTitle{

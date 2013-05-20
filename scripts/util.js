@@ -39,11 +39,11 @@ function mousealert(event) {
 //For full source code, visit http://www.dynamicdrive.com
 
 
-var message = {
-	rightClick : "Right click is disabled!"
-};
+//var message = {
+//	rightClick : "Right click is disabled!"
+//};
 
-///////////////////////////////////
+/*
 function clickIE4(){
 	if (event.button==2){
 		window.alert(message);
@@ -76,4 +76,4 @@ if (document.layers) {
 
 document.oncontextmenu = new Function("window.alert(message.rightClick);return false;");
 document.onmousedown = mousealert(Event);
-
+*/
