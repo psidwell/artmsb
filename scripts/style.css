@@ -1,0 +1,95 @@
+/* CSS Document */
+body{
+	text-align: center;
+	font: bold 11px Arial, helvetica, sans-serif;
+	}
+a:link, a:visited, a:hover, a:active{
+	text-decoration: none;
+	font-weight: bold;
+	color: #006;
+	}
+a:hover{
+	text-decoration: underline
+	}
+.max{
+	width: 750px;
+	}
+.top{
+	background: url('../images/main/top.gif') no-repeat left;
+	height: 35px;
+	width: 750px;	
+	font: 9pt Arial;
+	color: #6D8CB3;
+	text-align: left;
+	padding-left: 10px;
+	}
+.banner{
+	border-left: solid #999 1px;
+	border-right: solid #999 1px;
+	height: 125px;
+	text-align: center;
+	}
+.menu{
+	height: 25px;
+	text-align: center;
+	vertical-align: middle;
+	}
+.menuHere{
+	background: url('../images/main/here.gif') no-repeat;
+	height: 25px;
+	width: 150px;
+	color: #FFF;
+	text-align: center;
+	vertical-align: middle;
+	letter-spacing: 8px;
+	}
+.main{
+	height: 250px;
+	border-left: solid #999 1px;
+	border-right: solid #999 1px;
+	}
+.mainText{
+	font: 10pt Arial, helverica, sans-serif;
+	}
+.main img {
+	border: 3px double #85A0C6
+	}
+.bottom{
+	background: url('../images/main/bottom.gif') no-repeat;
+	height: 25px;
+	font: 7pt verdana, sans-serif;
+	text-align: center;
+	vertical-align: bottom;
+	color: #FFF;
+	}
+	/* Gallery Style Details */
+	.imageCell{
+	border-top: solid #CCC 1px;
+	border-right: solid #CCC 1px;
+	}
+.imageBottomCell{
+	border-top: solid #CCC 1px;
+	border-bottom: solid #CCC 1px;
+	border-right: solid #CCC 1px;
+	}
+.topOfCell{
+	border-top: solid #CCC 1px;
+	border-left: solid #CCC 1px;
+	padding: 10px;
+	}
+.leftSideCell{
+	border-left: solid #CCC 1px;
+	}
+.leftBottomCell{
+	border-left: solid #CCC 1px;
+	border-bottom: solid #CCC 1px;
+	}
+
+/* Christmas Card Page Style */
+.cardTitle{
+	font-family:  Arial, helverica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #006;
+	text-align: right;
+	}
